@@ -18,6 +18,8 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/thebestwebsite/math-nerds-or-not** and click import
 
+This project must NOT be edited using MicroPython!
+All development on this project will happen as TypeScript.
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
