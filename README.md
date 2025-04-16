@@ -1,5 +1,5 @@
 
-> Open this page at [https://thebestwebsite.github.io/math-nerds-or-not/](https://thebestwebsite.github.io/micro-bitRiggedBanana/)
+> Open this page at [https://thebestwebsite.github.io/micro-bitRiggedBanana/](https://thebestwebsite.github.io/micro-bitRiggedBanana/)
 
 ## Use as Extension
 
