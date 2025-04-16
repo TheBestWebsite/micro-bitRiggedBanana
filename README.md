@@ -1,5 +1,5 @@
 
-> Open this page at [https://thebestwebsite.github.io/math-nerds-or-not/](https://thebestwebsite.github.io/math-nerds-or-not/)
+> Open this page at [https://thebestwebsite.github.io/math-nerds-or-not/](https://thebestwebsite.github.io/micro-bitRiggedBanana/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/thebestwebsite/math-nerds-or-not** and import
+* search for **https://github.com/thebestwebsite/micro-bitRiggedBanana** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/thebestwebsite/math-nerds-or-not** and click import
+* paste **https://github.com/thebestwebsite/micro-bitRiggedBanana** and click import
 
 This project must NOT be edited using MicroPython!
 All development on this project will happen as TypeScript.
